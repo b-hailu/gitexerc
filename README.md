@@ -1,1 +1,1 @@
-# gitexerc
+# gitexerc "First committe practicing git
